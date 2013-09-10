@@ -229,8 +229,8 @@ actually use it, add the ``filter`` to our ``stylesheets`` block:
 Refresh the page in the ``dev`` environment and check out the result. Great!
 The css files are being minified.
 
-Applying a Filter only not in "Debug" Mode
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Applying a Filter only "non-debug" Mode
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The only problem is that having minified CSS when we're developing makes
 it much tougher to debug and fix styling issues. To fix this, add a ``?``
