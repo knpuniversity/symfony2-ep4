@@ -14,9 +14,9 @@ good-old-fashioned ``link`` tags:
     {% block stylesheets %}
         {# link tag for bootstrap... #}
         
-        <link rel="stylesheet" href="{{ asset('bundles/events/css/event.css') }}" />
-        <link rel="stylesheet" href="{{ asset('bundles/events/css/events.css') }}" />
-        <link rel="stylesheet" href="{{ asset('bundles/events/css/main.css') }}" />
+        <link rel="stylesheet" href="{{ asset('bundles/event/css/event.css') }}" />
+        <link rel="stylesheet" href="{{ asset('bundles/event/css/events.css') }}" />
+        <link rel="stylesheet" href="{{ asset('bundles/event/css/main.css') }}" />
     {% endblock %}
 
 Making Bundle Assets Public
