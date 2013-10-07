@@ -6,7 +6,6 @@ class DefaultController extends Controller
 {
     public function indexAction($count, $firstName)
     {
-        $this->container->getParameter('database_name');
 
         $em = $this->getDoctrine()->getManager();
         $repo = $em->getRepository('EventBundle:Event');
