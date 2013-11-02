@@ -32,7 +32,6 @@ originalVersion: 27
 isActiveVersion: 1
 tags:
     - { name: symfony }
-    - { name: php }
 
 chapters:
     intro:
