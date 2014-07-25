@@ -1,6 +1,0 @@
-app/config/parameters.yml
-app/cache
-app/logs
-.git
-web/uploads
-web/bundles

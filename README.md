@@ -1,18 +1,13 @@
 Starting in Symfony2 - Episode 4
 ================================
 
-Well hallo there! Inside this archive, you'll find 2 things:
+Well hallo there! This repository has moved!
 
-1) start - This is the start version of the code that's used in this screencast.
-   If you watched episode 3, this should be the exact code we finished with.
-   For more details on how to run the code, see the README.md file in that
-   directory.
+https://github.com/knpuniversity/symfony2-series
 
-2) finish - This is the finished version of the code that we build
-   in this screencast. For more details on how to run the code,
-   see the README.md file in that directory.
+For the script, look in the [knpu/episode4](https://github.com/knpuniversity/symfony2-series/tree/master/knpu/episode4) directory.
 
-And as always, thanks so much for your support and letting us do what
-we love!
+For the code, you can download it right on the site: https://knpuniversity.com/screencast/symfony2-ep4
 
-<3 Your friends at KnpLabs
+<3 Your friends at KnpUniversity
+
